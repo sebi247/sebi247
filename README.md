@@ -3,7 +3,7 @@
 <details>
 <summary>Projects I have worked on</summary>
 
-| Rank | Languages |
+|      | Projects  |
 |-----:|-----------|
 |     1|Android self-improvement app: https://github.com/adisan23/XpGainer                                                         |
 |     2|Bus ticket booking app with java Swing: https://github.com/sebi247/Northernbus                                             |
