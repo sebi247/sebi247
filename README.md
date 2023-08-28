@@ -13,5 +13,6 @@
 |     6|Implementing algorithms to rearrange linked lists in java such as: Append if miss, Move to front and Frequency count.   https://github.com/sebi247/Linked_list_Rearrangement   |
 |     7|Implementing client-server communication using sockets: https://github.com/sebi247/ClientServerCommunication                |
 |     8|Implementing Variations of the K-means algorithm such as K-means, K-means++ and bisecting k-means: https://github.com/sebi247/K-means  |
+|     9|Chatbot with capabilities to detect user serntiment from text + dissertation(Word Document): https://github.com/sebi247/EmotionDetectionchatbot |
 
 </details>
